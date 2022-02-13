@@ -1,5 +1,5 @@
 {
-  "name": "@anesmeister/storybook-meister",
+  "name": "storybook-meister",
   "version": "0.1.0",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.2",
